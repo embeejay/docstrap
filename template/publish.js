@@ -12,7 +12,7 @@ var template = require('jsdoc/template'),
   _ = require('underscore'),
   path = require('jsdoc/path'),
 
-  taffy = require('taffydb').taffy,
+  taffy = require('taffydb-75lb').taffy,
   handle = require('jsdoc/util/error').handle,
   helper = require('jsdoc/util/templateHelper'),
   moment = require("moment"),
